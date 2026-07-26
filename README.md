@@ -2,7 +2,7 @@ A fullstack web application for managing a book library catalogue,
 built with ASP.NET Core MVC and SQL Server.
 
 ## Screenshots
-![Homepage](<img width="2522" height="1109" alt="image" src="https://github.com/user-attachments/assets/0970205b-bd1d-4ba2-bd3f-9872254f9b28" />)
+<img width="2522" height="1109" alt="image" src="https://github.com/user-attachments/assets/0970205b-bd1d-4ba2-bd3f-9872254f9b28" />
 ![Categories](<img width="2560" height="1237" alt="image" src="https://github.com/user-attachments/assets/249528a7-97a5-450a-9612-9f1572079780" />)
 ![Create](<img width="2560" height="1237" alt="image" src="https://github.com/user-attachments/assets/88e5683a-524f-4e5c-81a8-158f2ea82d29" />)
 ![Created](<img width="2560" height="1237" alt="image" src="https://github.com/user-attachments/assets/976f5894-9215-4f05-8c45-36be752e32a7" />)
