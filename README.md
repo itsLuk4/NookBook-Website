@@ -41,7 +41,7 @@ Deleted
 
 ## How to Run Locally
 1. Clone the repository
-2. Open `NookBook.sln` in Visual Studio 2022
+2. Open `NookBook.sln` in Visual Studio
 3. In `Program.cs` make sure the connection string points to `DBContextSampleConnection`
 4. Open Package Manager Console and run `Update-Database`
 5. Press `Ctrl + F5` to run
